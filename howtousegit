@@ -1,0 +1,6 @@
+git checkout -b <BRANCH NAME>
+git status
+git merge
+git pull
+git push
+
