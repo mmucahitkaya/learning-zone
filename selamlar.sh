@@ -1,3 +1,5 @@
 #!/bin/bash
-echo "selam"
+echo "hello world and hello tau "
 echo $USER
+
+ls
